@@ -18,7 +18,7 @@
 
 * <font color=Red>逻辑图解</font>  
 
-![1572274369589](images/1572274369589.png)
+![1572274369589](images/1572274369589.png?raw=true)
 
 * <font color=Red>项目展示</font> 
 
